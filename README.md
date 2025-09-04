@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">A passionate developer currently living in Catalonia, Spain</h3>
 
-- 🌱 I’m currently working with **React, Node.js**
+- 🌱 I’m currently working with **Kubernetes, Terraform**
 
 - 📫 How to reach me **sebastian.v.a@riseup.net**
 
